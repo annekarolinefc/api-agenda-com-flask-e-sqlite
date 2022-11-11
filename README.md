@@ -2,7 +2,13 @@
 
 # Sobre o Projeto
 
-O projeto é referente a uma agenda de contatos. Esse projeto foi proposto na matéria de Sistemas Distribuidos do Curso de Análise e Desenvolvimento de sistema da UNA.
+O projeto é referente a uma agenda de contatos. 
+Esse projeto foi proposto na matéria de Sistemas Distribuidos do Curso de Análise e Desenvolvimento de sistema da UNA e visa construir uma APIRestful (utilizando flask) para controlar uma agenda de contatos.
+
+Você poderá ver a documentação do processo em: 
+[Documentação do Exercícios com imagens](./documentacao.ipynb)
+
+Você poderá acessar o script da API por [esse link](./04_api_contatos.py).
 
 # Índice/Sumário
 
@@ -33,9 +39,9 @@ O projeto é referente a uma agenda de contatos. Esse projeto foi proposto na ma
 
 # Tecnologias Usadas
 
-- [Python]()
-- [Flask]()
-- [SQLite]()
+- [Python](https://docs.python.org/3/)
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+- [SQLite](https://www.sqlite.org/docs.html)
 
 
 # Autora
